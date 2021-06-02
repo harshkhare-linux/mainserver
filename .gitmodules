@@ -1,0 +1,3 @@
+[submodule "codenew"]
+	path = codenew
+	url = https://github.com/harshkhare-linux/codenew.git

@@ -1,3 +1,6 @@
 [submodule "codenew"]
 	path = codenew
 	url = https://github.com/harshkhare-linux/codenew.git
+[submodule "code"]
+	path = code
+	url = https://github.com/harshkhare-linux/code.git
